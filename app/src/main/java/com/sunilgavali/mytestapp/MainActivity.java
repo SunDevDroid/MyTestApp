@@ -71,6 +71,7 @@ public class MainActivity extends AppCompatActivity {
     /*
     I am adding these changes to undersatnd how it reflects on VCS i.e. git hub
     Second Commit : Tag V001 added.
+    Third Commit : Tag V0.0.2 added.
 
      */
     @Override
