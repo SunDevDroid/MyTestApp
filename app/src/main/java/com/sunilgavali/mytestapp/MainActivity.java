@@ -77,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
     Seventh Commit: Tag V1.0.1 added.
     Eighth Commit : Tag V1.0.2 added.
     Ninth Commit : Tag V2 added.
+    Checkedout as MyTestApp01
      */
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
