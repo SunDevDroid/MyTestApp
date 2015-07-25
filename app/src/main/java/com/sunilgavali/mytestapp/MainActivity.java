@@ -75,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
     Fifth Commit: Tag V0.0.3 added.
     Sixth Commit: Tag V1.0.0 added.
     Seventh Commit: Tag V1.0.1 added.
+    Eighth Commit : Tag V1.0.2 added.
 
      */
     @Override
